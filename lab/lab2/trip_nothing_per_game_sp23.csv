@@ -1,0 +1,75 @@
+name0,name1,round_idx,coin_total0,coin_total1
+Adaptive Play 0.5 to 1,Alternating For Fun,5.0,1.5422677479781253,0.8911442082093751
+Adaptive Play 0.5 to 1,FiftyFifty,5.0,4.174041554546421,2.1801504808537886
+Adaptive Play 0.5 to 1,Follow-your-heart,5.0,1.1868896484375,1.1143798828125
+Adaptive Play 0.5 to 1,Guinea Pig,5.0,1.582824,1.874236
+Adaptive Play 0.5 to 1,Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,5.0,1.2300168252750001,1.554748879725
+Adaptive Play 0.5 to 1,any_gamblers?,5.0,14.1875,0.0
+Adaptive Play 0.5 to 1,gonna sleep,5.0,1.2626953125,1.2626953125
+Adaptive Play 0.5 to 1,gregatron,5.0,4.8608191772460945,1.6010279907226563
+Adaptive Play 0.5 to 1,increasing,5.0,3.1006575,2.7993925
+Alternating For Fun,Follow-your-heart,9.0,1.2195482474477837,1.2743672773649461
+Alternating For Fun,Guinea Pig,9.0,1.1220028736740923,1.4873005526164806
+Alternating For Fun,Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,9.0,1.0193918749192623,1.562419619520217
+Alternating For Fun,any_gamblers?,9.0,12.198300989008962,0.21307274578447455
+Alternating For Fun,gonna sleep,9.0,0.914548688308173,1.556824130980385
+FiftyFifty,Alternating For Fun,9.0,1.355263419430989,2.10111992076297
+FiftyFifty,Follow-your-heart,9.0,3.015559924107035,3.9782088458329192
+FiftyFifty,Guinea Pig,9.0,0.5158855588697059,1.9956450083141533
+FiftyFifty,Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,9.0,1.493679513109851,2.5993115616020295
+FiftyFifty,any_gamblers?,9.0,256.2128036637436,2.347209164960823
+FiftyFifty,gonna sleep,9.0,3.379215979527862,5.9251699360795165
+FiftyFifty,gregatron,9.0,10.135044666795832,6.0950400641648175
+FiftyFifty,increasing,9.0,10.396367687025156,11.962711799048911
+Follow-your-heart,Guinea Pig,9.0,1.8224673143369965,1.989561806196996
+Follow-your-heart,any_gamblers?,9.0,142.60152734374998,228.3535546875
+Follow-your-heart,gonna sleep,9.0,1.1707252621650697,1.2571656703948975
+Guinea Pig,any_gamblers?,9.0,2.7141700119879997,7.794467999999987e-05
+Guinea Pig,gonna sleep,9.0,2.6052862396000003,1.9539646796999999
+Misha:),Adaptive Play 0.5 to 1,5.0,0.0,14.1875
+Misha:),Alternating For Fun,9.0,0.3228342652379041,12.198300989008962
+Misha:),FiftyFifty,9.0,8.914194492129662,441.94472615054997
+Misha:),Follow-your-heart,9.0,34.598677447265594,348.11972656250003
+Misha:),Guinea Pig,9.0,1.1809681901999984e-05,2.7142401622
+Misha:),Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,9.0,19.60591722011719,56.28060546875
+Misha:),any_gamblers?,9.0,6692.1530778,12990.78
+Misha:),gonna sleep,9.0,19.221487470703124,56.6650390625
+Misha:),gregatron,9.0,6.679349414337917,34.4782399415
+Misha:),increasing,9.0,7.1424956143296,126.3548189456704
+Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,Follow-your-heart,9.0,1.5316078774467565,1.277312803774264
+Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,Guinea Pig,9.0,0.9421900788684139,0.9132852312641239
+Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,any_gamblers?,9.0,56.28060546875,12.940034765625
+Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,gonna sleep,9.0,1.9931475559767342,1.4165844587497904
+Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,gregatron,9.0,3.1737701631121777,1.4301073628804954
+any_gamblers?,gonna sleep,9.0,12.68630859375,56.6650390625
+copycat,Adaptive Play 0.5 to 1,5.0,1.2626953125,1.2626953125
+copycat,Alternating For Fun,9.0,1.185495234116455,1.2390839049472435
+copycat,FiftyFifty,9.0,8.810102498703408,10.466993376343614
+copycat,Follow-your-heart,9.0,1.1733822911046445,1.1226961586158724
+copycat,Guinea Pig,9.0,3.8964166575759505,3.99641665757595
+copycat,Misha:),9.0,0.5,9841.401585
+copycat,Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,9.0,2.1631628036734614,2.8501154056755595
+copycat,any_gamblers?,9.0,0.5,6495.39
+copycat,gonna sleep,9.0,1.415529727935791,1.415529727935791
+copycat,increasing,9.0,10.908905643209318,7.194360113888664
+gregatron,Guinea Pig,9.0,0.45445744608801014,1.987120674767779
+gregatron,any_gamblers?,9.0,133.7996101377969,22.132214683641564
+gregatron,gonna sleep,9.0,6.2484659656395,16.701053307465017
+increasing,Alternating For Fun,9.0,2.141466842827444,2.9933856888852732
+increasing,Follow-your-heart,9.0,4.841960003371,4.949096506569
+increasing,Guinea Pig,9.0,0.5821832172027657,1.8230282562041487
+increasing,Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,5.0,2.5068068919999997,2.841914988
+increasing,any_gamblers?,9.0,128.7832203136,4.7140942464
+increasing,gonna sleep,9.0,2.8688857918749995,3.768407375625
+increasing,gregatron,9.0,4.681670854593025,4.630200071894775
+optimal_frac_strat,Adaptive Play 0.5 to 1,5.0,2.4727801510442937,6.893011431509457
+optimal_frac_strat,Alternating For Fun,9.0,1.6178568200104504,6.45489606678516
+optimal_frac_strat,FiftyFifty,9.0,39.27366622650051,169.56618157843644
+optimal_frac_strat,Follow-your-heart,9.0,22.790421552757984,67.33582528193682
+optimal_frac_strat,Guinea Pig,9.0,0.30668208684188547,2.3199789808352813
+optimal_frac_strat,Misha:),9.0,0.0,19682.80317
+optimal_frac_strat,Overly Complicated Normal Distributed Biased Fake Nash Equilibrium,9.0,7.5326148368647505,12.746273668071627
+optimal_frac_strat,any_gamblers?,9.0,0.0,12990.78
+optimal_frac_strat,copycat,9.0,320.8648000512753,300.27965605225387
+optimal_frac_strat,gonna sleep,9.0,7.5326148368647505,12.746273668071627
+optimal_frac_strat,increasing,9.0,18.88477460997474,73.54584031707516
